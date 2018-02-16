@@ -4,7 +4,7 @@ Small Go package to parse a directory into valid JSON.
 
 ## Install
 
-    go get github.com/Dome91/jsonToDir
+    go get github.com/Dome91/dirToJSON
 
 ## Usage
 
